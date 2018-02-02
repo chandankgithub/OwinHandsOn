@@ -1,0 +1,5 @@
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Common\bin\Debug\CK.Owin.Common.dll
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Common\bin\Debug\CK.Owin.Common.pdb
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Common\obj\Debug\CK.Owin.Common.csproj.CoreCompileInputs.cache
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Common\obj\Debug\CK.Owin.Common.dll
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Common\obj\Debug\CK.Owin.Common.pdb

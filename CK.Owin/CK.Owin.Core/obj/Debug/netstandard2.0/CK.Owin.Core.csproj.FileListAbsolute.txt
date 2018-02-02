@@ -1,0 +1,9 @@
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Core\bin\Debug\netstandard2.0\CK.Owin.Core.deps.json
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Core\bin\Debug\netstandard2.0\CK.Owin.Core.dll
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Core\bin\Debug\netstandard2.0\CK.Owin.Core.pdb
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Core\obj\Debug\netstandard2.0\CK.Owin.Core.csprojResolveAssemblyReference.cache
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Core\obj\Debug\netstandard2.0\CK.Owin.Core.csproj.CoreCompileInputs.cache
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Core\obj\Debug\netstandard2.0\CK.Owin.Core.AssemblyInfoInputs.cache
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Core\obj\Debug\netstandard2.0\CK.Owin.Core.AssemblyInfo.cs
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Core\obj\Debug\netstandard2.0\CK.Owin.Core.dll
+D:\Github\OwinHandsOn\CK.Owin\CK.Owin.Core\obj\Debug\netstandard2.0\CK.Owin.Core.pdb

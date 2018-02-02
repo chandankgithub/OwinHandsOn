@@ -1,10 +1,8 @@
 ﻿using CK.Owin.Core.Middleware;
 using Owin;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Web;
+using Microsoft.Owin.Security;
+using Microsoft.Owin.Security.Cookies;
+using CK.Owin.Common.Constants;
 
 namespace CK.Owin
 {
@@ -22,9 +20,16 @@ namespace CK.Owin
             //app.Use<DebugMiddleware>();
 
             app.UseDebugMiddleware();
-            app.Use(async(ctx, next) =>
+            //app.Use(async(ctx, next) =>
+            //{
+            //    await ctx.Response.WriteAsync("Hello world !");
+            //});
+
+            app.UseCookieAuthentication(new CookieAuthenticationOptions
             {
-                await ctx.Response.WriteAsync("Hello world !");
+                AuthenticationType = ApplicationConstant.AUTHENTICATION_TYPE,
+                LoginPath=new Microsoft.Owin.PathString("/Login/Index")
+
             });
         }
     }
